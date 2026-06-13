@@ -6,6 +6,8 @@
 
 **One AI Brain for Remote Access and Vision**
 
+[English](README.md) | [Tiếng Việt](README_vi.md)
+
 [![License](https://img.shields.io/badge/license-Proprietary-blue.svg)](#)
 [![Platform](https://img.shields.io/badge/platform-Windows%20|%20Linux%20|%20macOS%20|%20Android%20|%20iOS-brightgreen.svg)](#download)
 [![GitHub Release](https://img.shields.io/github/v/release/sonnvntu/openviewer-releases?include_prereleases&label=latest)](https://github.com/sonnvntu/openviewer-releases/releases/latest)
