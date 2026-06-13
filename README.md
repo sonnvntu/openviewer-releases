@@ -40,4 +40,21 @@
 
 ---
 
+## 📸 Screenshots
+
+### 💻 Desktop App
+<div align="center">
+  <img src="assets/desktop_dashboard.jpg" alt="Desktop Dashboard & Notifications" width="49%">
+  <img src="assets/desktop_ai_events.png" alt="AI Events History" width="49%">
+</div>
+
+### 📱 Mobile App
+<div align="center">
+  <img src="assets/mobile_remote_connections.jpg" alt="Mobile Remote Connections" width="32%">
+  <img src="assets/mobile_ai_alerts.jpg" alt="Mobile AI Alerts" width="32%">
+  <img src="assets/mobile_push_notifications.jpg" alt="Mobile Push Notifications" width="32%">
+</div>
+
+---
+
 </div>

@@ -40,4 +40,21 @@
 
 ---
 
+## 📸 Giao diện ứng dụng
+
+### 💻 Ứng dụng Desktop
+<div align="center">
+  <img src="assets/desktop_dashboard.jpg" alt="Bảng điều khiển & Thông báo Desktop" width="49%">
+  <img src="assets/desktop_ai_events.png" alt="Lịch sử sự kiện AI" width="49%">
+</div>
+
+### 📱 Ứng dụng Di động
+<div align="center">
+  <img src="assets/mobile_remote_connections.jpg" alt="Danh sách kết nối di động" width="32%">
+  <img src="assets/mobile_ai_alerts.jpg" alt="Danh sách cảnh báo AI" width="32%">
+  <img src="assets/mobile_push_notifications.jpg" alt="Thông báo đẩy trên di động" width="32%">
+</div>
+
+---
+
 </div>
