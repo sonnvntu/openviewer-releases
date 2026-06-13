@@ -23,13 +23,17 @@
 ### Key Features
 
 - 🖥️ **Remote Access** — View and control any computer from anywhere
+  - Low-latency, high-FPS screen streaming.
+  - Multi-monitor navigation and management.
+  - High-performance screen & audio capture via DXGI (Windows), ScreenCaptureKit (macOS), and X11/Wayland/PipeWire (Linux).
+  - High-performance, secure file transfer.
 - 📹 **AI-Powered Vision** — Transform cameras into intelligent sensors.
   - Deploy custom AI models trained for your specific use cases.
   - Detect people, fire, vehicles, and other critical events.
   - Enhance confidence with multi-stage Detection and Classification pipelines.
   - Create visual AI workflows: Detection → Classification → Rule → Alert.
   - Trigger real-time notifications and automated responses.
-- 🔒 **End-to-End Encrypted** — P2P WebRTC connection with DTLS encryption
+- 🔒 **End-to-End Encrypted** — P2P connection with DTLS encryption
 - 📱 **Cross-Platform** — Windows, Linux, macOS, Android, iOS
 - 🌐 **No Port Forwarding** — Works behind NAT with STUN/TURN relay
 - 🔔 **Push Notifications** — AI event alerts delivered to your phone
