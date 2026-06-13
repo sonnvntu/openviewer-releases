@@ -4,7 +4,7 @@
 
 # OpenViewer
 
-**One AI Brain for Remote Access and Vision**
+**Remote Access and AI-Powered Vision**
 
 [English](README.md) | [Tiếng Việt](README_vi.md)
 

@@ -4,7 +4,7 @@
 
 # OpenViewer
 
-**Một bộ não AI dành cho Truy cập Từ xa và Giám sát Camera**
+**Truy Cập Từ Xa Và Camera Thông Minh AI**
 
 [English](README.md) | [Tiếng Việt](README_vi.md)
 
