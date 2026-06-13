@@ -4,7 +4,7 @@
 
 # OpenViewer
 
-**Remote Desktop & AI Camera Viewer — Peer-to-Peer via WebRTC**
+**One AI Brain for Remote Access and Vision**
 
 [![License](https://img.shields.io/badge/license-Proprietary-blue.svg)](#)
 [![Platform](https://img.shields.io/badge/platform-Windows%20|%20Linux%20|%20macOS%20|%20Android%20|%20iOS-brightgreen.svg)](#download)
@@ -16,14 +16,18 @@
 
 ## ✨ About
 
-**OpenViewer** is an AI-powered remote desktop and camera monitoring application that connects devices peer-to-peer via WebRTC. No port forwarding or VPN needed — just install, enter the Host ID, and you're connected.
+**OpenViewer** is an AI-powered platform that brings together remote access, camera monitoring, and intelligent automation.
 
 ### Key Features
 
-- 🖥️ **Remote Desktop** — View and control any computer from anywhere
-- 📹 **AI Camera Monitoring** — Live camera streams supporting multi-model AI deployment (YOLO, ResNet, EfficientNet, ALPR, OCR, etc.) with real-time smart alerts
+- 🖥️ **Remote Access** — View and control any computer from anywhere
+- 📹 **AI-Powered Vision** — Transform cameras into intelligent sensors.
+  - Deploy custom AI models trained for your specific use cases.
+  - Detect people, fire, vehicles, and other critical events.
+  - Enhance confidence with multi-stage Detection and Classification pipelines.
+  - Create visual AI workflows: Detection → Classification → Rule → Alert.
+  - Trigger real-time notifications and automated responses.
 - 🔒 **End-to-End Encrypted** — P2P WebRTC connection with DTLS encryption
-- ⚡ **Hardware Accelerated** — GPU encoding (NVENC, QSV, VAAPI, VideoToolbox)
 - 📱 **Cross-Platform** — Windows, Linux, macOS, Android, iOS
 - 🌐 **No Port Forwarding** — Works behind NAT with STUN/TURN relay
 - 🔔 **Push Notifications** — AI event alerts delivered to your phone
