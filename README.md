@@ -18,7 +18,15 @@
 
 ## ✨ About
 
-**OpenViewer** is an AI-powered platform that brings together remote access, camera monitoring, and intelligent automation.
+**Remote Access & AI**
+
+*Connect anywhere — understand what's happening.*
+
+Most remote desktop software only lets you see what's on the screen. But at OpenViewer, we believe that’s not enough when you’re away from your machine.
+
+Controlling the computer is just one part of the remote experience. What's missing is awareness — knowing what’s happening around the device: Did someone just walk into the room? Is there smoke or a fire?
+
+That's why OpenViewer is built differently. Instead of just a Remote Access tool, OpenViewer connects webcams or IP cameras, allowing you to not only control your computer but also monitor the surrounding space, all in one platform.
 
 ### Key Features
 

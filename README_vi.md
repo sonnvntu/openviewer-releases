@@ -18,7 +18,15 @@
 
 ## ✨ Giới thiệu
 
-**OpenViewer** là nền tảng hỗ trợ bởi AI, kết hợp tính năng truy cập từ xa, giám sát camera và tự động hóa thông minh.
+**Truy Cập Từ Xa & AI**
+
+*Kết nối mọi nơi — thấu hiểu mọi thứ đang diễn ra.*
+
+Hầu hết các phần mềm điều khiển máy tính từ xa chỉ cho phép bạn nhìn thấy những gì trên màn hình. Nhưng tại OpenViewer, chúng tôi tin rằng điều đó là chưa đủ khi bạn không ở gần máy tính của mình.
+
+Điều khiển máy tính chỉ là một phần của trải nghiệm từ xa. Điều còn thiếu là khả năng nhận thức — biết được những gì đang xảy ra xung quanh thiết bị: Có ai vừa bước vào phòng không? Có khói hay hỏa hoạn không?
+
+Đó là lý do tại sao OpenViewer được xây dựng khác biệt. Thay vì chỉ là một công cụ Truy Cập Từ Xa thông thường, OpenViewer kết nối webcam hoặc camera IP, cho phép bạn vừa kiểm soát máy tính vừa giám sát không gian xung quanh, tất cả trong một nền tảng duy nhất.
 
 ### Tính năng chính
 
