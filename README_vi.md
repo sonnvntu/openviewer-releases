@@ -4,7 +4,7 @@
 
 # OpenViewer
 
-**Truy Cập Từ Xa Và Camera Thông Minh AI**
+**Remote Access & AI**
 
 [English](README.md) | [Tiếng Việt](README_vi.md)
 

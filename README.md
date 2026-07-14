@@ -4,7 +4,7 @@
 
 # OpenViewer
 
-**Remote Access and AI-Powered Vision**
+**Remote Access & AI**
 
 [English](README.md) | [Tiếng Việt](README_vi.md)
 
